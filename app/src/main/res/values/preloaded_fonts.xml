@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/allan_bold</item>
+        <item>@font/amita_bold</item>
+        <item>@font/basic</item>
+        <item>@font/bubbler_one</item>
+        <item>@font/candal</item>
+        <item>@font/capriola</item>
+        <item>@font/carter_one</item>
+        <item>@font/englebert</item>
+        <item>@font/graduate</item>
+        <item>@font/hanalei_fill</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/nanum_brush_script</item>
+    </array>
+</resources>
